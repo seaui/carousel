@@ -14,12 +14,12 @@
   },
     "bugs": {
         "email": "seauijs@gmail.com",
-        "url": "https://github.com/seaui/button/issues"
+        "url": "https://github.com/seaui/carousel/issues"
     },
     "keywords": ["carousel", "seaui"],
     "licenses": {
         "type": "MIT",
-        "url": "https://github.com/seaui/button/blob/master/LICENSE"
+        "url": "https://github.com/seaui/carousel/blob/master/LICENSE"
     },
   "spm": {
     "output": [
