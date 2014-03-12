@@ -1,7 +1,7 @@
 define(function(require, exports, module) {
     var $ = require('$');
     require('transition');
-    require('./carousel_css.css');
+    require('./carousel.css');
 
     'use strict';
 
