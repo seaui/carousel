@@ -28,6 +28,7 @@
     ],
     "alias": {
         "$": "jquery/jquery/1.10.1/jquery",
+        "transition": "seaui/transition/1.0.0/transition",
         "base": "seaui/base/1.0.0/base.css"
     },
     "devAlias": {},
