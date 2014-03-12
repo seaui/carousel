@@ -1,0 +1,36 @@
+{
+  "family": "seaui",
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/seaui/carousel",
+  "author": "chanh",
+  "maintainers": [
+    "chanh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/seaui/carousel.git"
+  },
+    "bugs": {
+        "email": "seauijs@gmail.com",
+        "url": "https://github.com/seaui/button/issues"
+    },
+    "keywords": ["carousel", "seaui"],
+    "licenses": {
+        "type": "MIT",
+        "url": "https://github.com/seaui/button/blob/master/LICENSE"
+    },
+  "spm": {
+    "output": [
+      "carousel.js",
+      "carousel.css"
+    ],
+    "alias": {
+        "$": "jquery/jquery/1.10.1/jquery",
+        "base": "seaui/base/1.0.0/base.css"
+    },
+    "devAlias": {},
+    "engines": {}
+  }
+}
