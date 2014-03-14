@@ -2,7 +2,7 @@
 
 ---
 
-A nice CMD module.
+SeaUI 轮播插件
 
 ---
 
